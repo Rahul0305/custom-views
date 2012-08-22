@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="app_background">#ffffff</color>
+	<color name="light_blue">#331ed7</color>
+	<color name="dark_blue">#1b09a0</color>
+		
+	<color name="text_tab_selected">#5d5d5d</color>
+	<color name="text_tab_unselected">#838183</color>
+</resources>
